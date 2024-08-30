@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola a todos! Soy Diego Majano 👋
 
 <!--
 **DiegoMajano/DiegoMajano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 Actual estudiante en Ingeniería en Ciencias de la Computación
+- 🚀 Aprendiendo todo sobre desarrollo web
+- ☀️ Me gusta aprender y buscar cosas nuevas
+- 🕝 Dev en proceso :)
