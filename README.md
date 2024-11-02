@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Actual estudiante en Ingeniería en Ciencias de la Computación
-- 🚀 Aprendiendo todo sobre desarrollo web
-- ☀️ Me gusta aprender y buscar cosas nuevas
+- 🚀 Aprendiendo todo sobre desarrollo web, tanto frontend y backend :)
+- 🤔 Adquiriendo conocimientos sobre ReactJs y Laravel
+- ⚡ Desarrollador en proceso en backend con C# y manejo de bases de datos con SQL Server
+- ☀️ Me gusta aprender y buscar cosas nuevas, interesado en siempre mejorar
 - 🕝 Dev en proceso :)
