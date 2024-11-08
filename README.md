@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Desarrollador en proceso en backend con C# y manejo de bases de datos con SQL Server
 - ☀️ Me gusta aprender y buscar cosas nuevas, interesado en siempre mejorar
 - 🕝 Dev en proceso :)
+
+![Snake animation](https://raw.githubusercontent.com/DiegoMajano/DiegoMajano/output/github-contribution-grid-snake-dark.svg)
