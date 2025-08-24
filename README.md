@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓 Estudiante de 4to año en Ingeniería en Ciencias de la Computación.
 - 🚀 Apasionado por el desarrollo de software, explorando las diferentes áreas para especializarme con mucho entusiasmo y esfuerzo.
-- ⚡ Enfocado en dar soluciones eficientes y optimas a problemas reales, con diferentes tecnologías como Javascript con React y Express, PHP con Laravel y un poco de C# con .NET.
+- ⚡ Enfocado en dar soluciones eficientes y optimas a problemas reales, con diferentes tecnologías como Javascript con React y Express, PHP con Laravel y un poco de C# con .NET, bases de datos SQL como MySQL y noSQL con MongoDB y Firebase.
 - 💡 Siempre en busca de nuevos conocimientos y oportunidades de mejorar e incrementar mi potencial.
 - 🕝 Desarrollador en formación, con ganas de seguir creciendo 🚀
 
