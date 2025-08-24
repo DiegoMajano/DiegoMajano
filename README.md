@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Estudiante de Ingeniería en Ciencias de la Computación
-- 🚀 Apasionado por el desarrollo web, explorando tanto frontend como backend
-- ⚡ Enfocado en ReactJS y Laravel, además C# y SQL Server para desarrollo backend
-- 💡 Siempre en busca de nuevos conocimientos y oportunidades para mejorar
+- 🎓 Estudiante de 4to año en Ingeniería en Ciencias de la Computación.
+- 🚀 Apasionado por el desarrollo de software, explorando las diferentes áreas para especializarme con mucho entusiasmo y esfuerzo.
+- ⚡ Enfocado en dar soluciones eficientes y optimas a problemas reales, con diferentes tecnologías como Javascript con React y Express, PHP con Laravel y un poco de C# con .NET.
+- 💡 Siempre en busca de nuevos conocimientos y oportunidades de mejorar e incrementar mi potencial.
 - 🕝 Desarrollador en formación, con ganas de seguir creciendo 🚀
 
 ![Snake animation](https://raw.githubusercontent.com/DiegoMajano/DiegoMajano/output/github-contribution-grid-snake-dark.svg)
